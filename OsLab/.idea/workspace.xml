@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fac430f2-98c4-4d47-be97-fb96eb0edd35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OsLab" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1rRKLoNsUEIfORr2sV224yxJVAV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProducerAndConsumerTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OsOnline.Main" />
+      <module name="OsLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OsOnline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OsLabAssign_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OsLabAssign_3" />
+      <module name="OsLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerAndConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Os_Assignment_4.ProducerAndConsumerTest" />
+      <module name="OsLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Os_Assignment_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerConsumerDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_4.ProducerConsumerDriver" />
+      <module name="OsLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProducerAndConsumerTest" />
+        <item itemvalue="Application.ProducerConsumerDriver" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.OsLabAssign_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fac430f2-98c4-4d47-be97-fb96eb0edd35" name="Default Changelist" comment="" />
+      <created>1618933408937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618933408937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="297" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1620147421689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="297" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1620147421689" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1622949957828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622949957828" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1622949957828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622949957828" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1622949957828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622949957828" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1622949957828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622949957828" />
+    <state x="315" y="349" key="ReplaceDuplicatesPrompt" timestamp="1618942967161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="315" y="349" key="ReplaceDuplicatesPrompt/0.0.1536.824@0.0.1536.824" timestamp="1618942967161" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1622947242145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1622947242145" />
+    <state x="222" y="174" width="538" height="484" key="extract.method.dialog" timestamp="1618942961513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="222" y="174" width="538" height="484" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1618942961513" />
+    <state x="200" y="37" key="refactoring.ChangeSignatureDialog" timestamp="1618941943556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="200" y="37" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1618941943556" />
+  </component>
+</project>
